@@ -1,6 +1,6 @@
 # Useful Java 9 Resources
 
-## Web Pages / Blogs Links
+## Web Pages / Blogs  
 
 **Dzone - Java 9 is Feature Complete**  
 A summary list of the major additions in Java 9  
