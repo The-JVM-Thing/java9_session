@@ -38,7 +38,7 @@ Nikolai Parlog, gives us a live migration of an existing application to Jigsaw, 
 Video: https://virtualjug.com/to-jar-hell-and-back-a-live-migration-to-the-java-9-module-system/  
 Podcast: https://soundcloud.com/vjug/to-jar-hell-and-back-a-live-migration-to-the-java-9-module-system  
 
-**Virtual Jug: 55 new Features in Java 9**
-Simon Ritter finds 55 things that he thinks you might just like in Java 9, things that make your life as a developer, easier!
+**Virtual Jug: 55 new Features in Java 9**  
+Simon Ritter finds 55 things that he thinks you might just like in Java 9, things that make your life as a developer, easier!  
 Video: https://virtualjug.com/55-new-features-in-jdk-9/  
 Podcast: https://soundcloud.com/vjug/55-new-features-in-jdk-9-vjug-session  
