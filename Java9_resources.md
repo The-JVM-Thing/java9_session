@@ -8,7 +8,7 @@ https://dzone.com/articles/jdk-9-is-feature-complete
 
 
 **Oracle - What's new in Java 9**  
-Exhaustive list of everything new in Java 9
+Exhaustive list of everything new in Java 9.  
 https://docs.oracle.com/javase/9/whatsnew/toc.htm
 
 
