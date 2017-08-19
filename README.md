@@ -1,1 +1,2 @@
-# java9_session
+# The JVM Thing presents: The Java 9 Session
+
