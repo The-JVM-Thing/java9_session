@@ -16,6 +16,9 @@ Great summary of a few new functional features!
 https://blog.codefx.org/java/java-9-stream/  
 https://blog.codefx.org/java/java-9-optional/
 
+**Ultimate guide to Java 9, Sitepoint**  
+https://www.sitepoint.com/ultimate-guide-to-java-9/
+
 ## Videos and Podcasts:
 
 **Virtual JUG: What can we look forward to**  
