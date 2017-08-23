@@ -11,6 +11,10 @@ https://dzone.com/articles/jdk-9-is-feature-complete
 Exhaustive list of everything new in Java 9.  
 https://docs.oracle.com/javase/9/whatsnew/toc.htm
 
+**Java 9 Additions to Stream and Optional, (Nikolai Parlog, Codefx blog)**  
+Great summary of a few new functional features!  
+https://blog.codefx.org/java/java-9-stream/  
+https://blog.codefx.org/java/java-9-optional/
 
 ## Videos and Podcasts:
 
