@@ -19,6 +19,10 @@ https://blog.codefx.org/java/java-9-optional/
 **Ultimate guide to Java 9, Sitepoint**  
 https://www.sitepoint.com/ultimate-guide-to-java-9/
 
+**Aleksey Shipilёv - Lord of the Strings**  
+In depth presentation about Compact Strings, and the Indify'ing of String Concatenation.  
+https://shipilev.net/talks/jfokus-Feb2016-lord-of-the-strings.pdf
+
 ## Videos and Podcasts:
 
 **Virtual JUG: What can we look forward to**  
